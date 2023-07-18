@@ -33,4 +33,4 @@ if you want to modify existing schemes or add new schemes please feel free contr
 [Kaic Salomão](https://github.com/kaicsm) Thanks for Dracula Theme
 
 ## Contact
-Feel free to contact me on Telegram at [DevAbdul](t.me/devabdul) for any questions or suggestions.
+Feel free to contact me on Telegram at [DevAbdul](https://t.me/devabdul) for any questions or suggestions.
