@@ -14,6 +14,8 @@ cp -r * $HOME/.androidide/ui/editor/schemes &&
 chmod -R +r $HOME/.androidide/ui/editor/schemes && echo -e "\e[32mColor scheme installed successfully!\e[0m"
 echo "Please restart AndroidIDE."
 ```
+ 
+
 
 ## Screenshots
 
@@ -28,8 +30,7 @@ Caption for Screenshot 2
 if you want to modify existing schemes or add new schemes please feel free contribute
 
 # Special Thanks
-xyz Thanks for Dracula Theme
+[Kaic Salomão](https://github.com/kaicsm) Thanks for Dracula Theme
 
 ## Contact
-
-Feel free contact me on Telegram mytelegram
+Feel free to contact me on Telegram at [DevAbdul](t.me/devabdul) for any questions or suggestions.
