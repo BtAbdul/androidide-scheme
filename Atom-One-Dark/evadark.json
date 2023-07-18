@@ -1,0 +1,54 @@
+{
+  "definitions": {
+    "primary": "#00B0FF",
+    "primaryLight": "#002240",
+    "primaryInverse": "#00335E",
+    "onPrimary": "#FFFFFF",
+    "onPrimaryContainer": "#FFFFFF",
+    "surface": "#1E1E1E",
+    "surfaceInverse": "#F3F3F3",
+    "surfaceVariant": "#252526",
+    "onSurface": "#D4D4D4",
+    "onSurfaceVariant": "#CCCCCC",
+    "outline": "#808080",
+   
+  "type": "#61AFEF",
+  "keyword": "#C678DD",
+  "operator": "#ABB2BF",
+  "attribute": "#D19A66",
+  "variable": "#D19A66",
+  "field": "#D19A66",
+  "constant": "#D19A66",
+  "number": "#98C379",
+  "string": "#98C379",
+  "comment": "#ABB2BF",
+  "func.decl": "#61AFEF",
+  "func.call": "#E5C07B",
+
+  "java.package": "#61AFEF",
+
+  "kt.preproc": "#C678DD",
+  "kt.property": "#E5C07B",
+  "kt.punctuation.special": "#ABB2BF",
+  "kt.constructor": "#C678DD",
+  "kt.string.esc": "#56B6C2",
+
+  "xml.tag": "#61AFEF",
+  "xml.ref": "#61AFEF",
+  "ns_prefix": "#56B6C2",
+
+  "json.key": "#E5C07B",
+  "json.escape": "#56B6C2"
+
+  },
+  "editor": "@editor.json",
+  "languages": [
+    "@java.json",
+    "@json.json",
+    "@kotlin.json",
+    "@xml.json",
+    "@gradle.json",
+    "@cpp.json"
+    
+  ]
+}
